@@ -30,4 +30,8 @@ I aim to document what each project does, how to run it, and what I learned whil
 - Apply my MSc studies to practical AI and Python development
 - Keep improving through consistent hands-on learning
 
+## 📌 Featured project
+
+- [Python Learning Portfolio](https://github.com/arodvi/python-learning) — Python functions, dictionaries, hashing, object-oriented programming, and unit tests.
+
 Thanks for visiting!
